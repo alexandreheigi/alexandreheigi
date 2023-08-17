@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-# My name is Alexandre
+### My name is Alexandre
+### I am student 
+
+<img src="/img/DevStudent.jpg">
 
 <!--
 **alexandreheigi/alexandreheigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
